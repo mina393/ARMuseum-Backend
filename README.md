@@ -3,6 +3,11 @@ Step into the past, reimagined for the future. ARMuseum is an innovative mobile 
 
 This repository contains the powerful, secure, and scalable ASP.NET Core backend that serves as the backbone for the entire ARMuseum experience, driving everything from ticket sales to groundbreaking AI reconstructions.
 
+🚀 Application Demos:
+1- User Application: https://drive.google.com/file/d/1isgT9TkOZbcTI9KuiIJVeKEGCL-dj_KR/view?usp=sharing
+
+2- Admin dashboard: https://drive.google.com/file/d/127vkOz-4CZKDWfsC7RTXtGV7m4FW1_NU/view?usp=sharing
+
 ✨ Core Features
 🎟️ Virtual Ticketing System: A complete and secure e-commerce solution that allows users to seamlessly purchase tickets for virtual museum tours. The system is fully integrated with the Paymob payment gateway for reliable and secure transaction processing.
 
@@ -15,7 +20,6 @@ This repository contains the powerful, secure, and scalable ASP.NET Core backend
 ⏳ Real-Time Usage Tracking: Leverages SignalR to monitor a user's time within the virtual experience, ensuring ticket validity and managing session duration dynamically for a smooth user experience.
 
 📊 Admin Dashboard API: A dedicated set of endpoints for administrators to manage all aspects of the application, including museum content, ticket prices, user accounts, and viewing key statistics on sales and revenue.
-
 
 🛠️ Tech Stack
 Framework: ASP.NET Core 8
@@ -31,4 +35,3 @@ Real-time Communication: SignalR
 Payment Gateway: Paymob API Integration
 
 API Documentation: Swagger / OpenAPI
-

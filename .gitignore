@@ -1,0 +1,26 @@
+# Visual Studio temporary files 
+.vs/ 
+*.suo 
+*.user 
+ 
+# Build results 
+[Bb]in/ 
+[Oo]bj/ 
+ 
+# Rider files 
+.idea/ 
+ 
+# User Secrets 
+secrets.json 
+ 
+# Other 
+*.lock.json 
+*.csproj.user 
+
+
+# Unity / WebGL build output
+[Bb]uild/
+*.unityweb
+
+# Add the specific folder from your project as well
+wwwroot/Maps/VMuseum1/Build/
